@@ -107,7 +107,9 @@ pip install nltk
 
 This project successfully demonstrates how natural language processing techniques can be applied to create practical tools such as text summarizers. It also fulfills the requirements of Task 1 of the CodTech Internship, showing an understanding of core NLP methods like tokenization, stopword removal, and frequency-based scoring.
 
-The tool is easy to use, efficient, and relevant for a wide variety of use cases in both personal and professional contexts.
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/6d487efb-3d66-4a32-ac8e-e0bddeca1284)
 
 
 
