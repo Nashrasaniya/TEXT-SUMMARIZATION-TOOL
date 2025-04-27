@@ -12,7 +12,7 @@
 
 "MENTOR":NEELA SANTHOSH
 
-----> Project Description
+# Project Description
 
 This project is a Text Summarization Tool developed as part of Task 1 for the CodTech Internship Program. The primary objective of this tool is to summarize long paragraphs or articles using Natural Language Processing (NLP) techniques. By condensing large text into smaller, meaningful summaries, this tool helps users quickly grasp the main idea without reading through the entire content.
 
@@ -20,7 +20,7 @@ Text summarization is a growing area of NLP that can greatly assist in fields li
 
 The entire project is built using Python, leveraging standard NLP techniques and libraries. The tool runs on the command line and takes a paragraph as input, then returns a concise summary by identifying the most relevant sentences based on frequency analysis.
 
----> Technologies and Modules Used
+# Technologies and Modules Used
 
 This summarizer tool is developed using pure Python and leverages several key libraries and modules:
 
@@ -35,7 +35,7 @@ This is used to retrieve the top-ranked sentences based on calculated scores.
 
 These libraries ensure that the solution remains lightweight, efficient, and easily understandable, making it suitable for beginners and intermediate learners in NLP.
 
----> How It Works – Methodology
+# How It Works – Methodology
 The summarization tool follows a clear and logical flow:
 
 1. Input Collection
@@ -67,10 +67,11 @@ The top 3 highest-scoring sentences are selected using the heapq.nlargest() func
 
 These sentences are combined to form the final summary.
 
-Output
+# Output
 The summary is printed directly to the terminal for user consumption.
 
---> Features
+# Features
+
 Simple command-line interface.
 
 1. Lightweight and fast — no need for complex machine learning models.
@@ -88,7 +89,8 @@ Readers can get quick insights into long news articles or press releases.
 2. Academic Use
 Students and researchers can quickly summarize research papers and journal articles for faster literature reviews.
 
-How to Run
+# How to Run
+
 Make sure Python is installed (recommended: Python 3.7+).
 
 1. Install the required packages:
@@ -103,11 +105,11 @@ pip install nltk
 
 5. Get your summary in seconds!
 
----> Conclusion
+# Conclusion
 
 This project successfully demonstrates how natural language processing techniques can be applied to create practical tools such as text summarizers. It also fulfills the requirements of Task 1 of the CodTech Internship, showing an understanding of core NLP methods like tokenization, stopword removal, and frequency-based scoring.
 
-#OUTPUT
+# OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/6d487efb-3d66-4a32-ac8e-e0bddeca1284)
 
